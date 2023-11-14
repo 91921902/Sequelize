@@ -1,2 +1,2 @@
 # Sequelize
-Aprendendo Sequelize
+Aprendendo Backend
